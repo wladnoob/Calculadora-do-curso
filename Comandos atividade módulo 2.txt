@@ -1,0 +1,6 @@
+cd /home/wlad/modulo1/python
+ls (pra me certificar de que o caminho estava correto)
+nano calculadora_pronta.sh
+chmod +x calculadora_pronta.sh
+chmod 644 calculadora_pronta.sh
+./calculadora_pronta.sh
